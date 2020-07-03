@@ -2,5 +2,5 @@
 Collection of Java Swing projects
 <br>
 <br>
-<h1> Login Screen One </h1>
+**Login Screen One**
 ![Login screen one](loginOne.png)
