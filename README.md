@@ -1,5 +1,5 @@
 # Java-Swing
-Collection of Java Swing projects
+Collection of Java Swing projects/templates
 <br>
 <br>
 **Login Screen One**
