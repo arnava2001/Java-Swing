@@ -7,4 +7,5 @@ Collection of Java Swing projects/templates
 <br>
 <br>
 **Tic Tac Toe vs AI**
+<br>
 ![Tic-Tac-Toe](ttt.png)
