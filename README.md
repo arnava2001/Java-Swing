@@ -4,5 +4,5 @@ Collection of Java Swing projects/templates
 <br>
 **Login Screen One**
 ![Login screen one](loginOne.png)
-<br>
+**Tic Tac Toe vs AI**
 ![Tic-Tac-Toe (vs AI)(ttt.png)
